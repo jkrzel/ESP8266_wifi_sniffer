@@ -24,3 +24,7 @@ How to Use:
     2. Upload the code to your ESP8266 via Arduino IDE.
     3. Open the Serial Monitor (115200 baud) and find the assigned IP address.
     4. Enter that IP in a browser on the same local network to view the WiFi scan results.
+
+Needed libraries:
+        - ESP8266WiFi.h
+        - ESP8266WebServer.h
